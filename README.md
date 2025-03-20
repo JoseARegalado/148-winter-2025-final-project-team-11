@@ -30,9 +30,9 @@
 
 ## Team Members
 * MingWei Yeoh - ECE - 2025
-* Trevor 
+* Trevor Kwan
 * Minh Quach
-* Jose 
+* Jose Regalado Becerra
 
 <hr>
 
@@ -292,6 +292,14 @@ To revert to default parameters, simply delete `custom_params.yaml` before launc
 
 ## Gantt Chart
 ![alt text](markdown/image13.png)
+
+## ROS2 Node Architecture
+![alt test](https://github.com/user-attachments/assets/9fd72817-4bac-4d09-96aa-9801b5cdbb46)
+[AutonomousPoliceCar_ROS2_Node_Architecture.pdf](https://github.com/user-attachments/files/19375995/AutonomousPoliceCar_ROS2_Node_Architecture.pdf)
+
+## Quick Reference Nodes-Parameters-Troubleshooting
+![alt_text](https://github.com/user-attachments/assets/517bca9c-96d5-4754-a571-c6bff6fda3ff)
+
 ## Course Deliverables
 Here are our autonomous laps as part of our class deliverables:
 
